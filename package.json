@@ -9,6 +9,6 @@
   "author": "Andy Zhong",
   "license": "ISC",
   "bin": {
-      "hocusPocus": "./index.js"
-  },
+    "hocusPocus": "./index.js"
+  }
 }
