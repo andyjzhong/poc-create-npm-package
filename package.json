@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andy Zhong",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+      "hocusPocus": "./index.js"
+  },
 }
-"bin": {
-    "hocusPocus": "./index.js"
-},
